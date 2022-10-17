@@ -1,0 +1,23 @@
+{
+  "name": "npm-init-exercise",
+  "version": "1.0.0",
+  "description": "npm init exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edlme/npm-init-exercise.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Edlawit Girma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edlme/npm-init-exercise/issues"
+  },
+  "homepage": "https://github.com/Edlme/npm-init-exercise#readme"
+}
